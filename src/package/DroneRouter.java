@@ -1,7 +1,7 @@
 /*
  * @author Samy Rezzag
  */
-package edu.metrostate.ics340.p3.msr812;
+package package;
 
 import java.io.BufferedReader;
 import java.io.File;
