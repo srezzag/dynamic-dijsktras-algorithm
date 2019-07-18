@@ -1,7 +1,5 @@
 /*
  * @author Samy Rezzag
- * ICS 340 - P3
- * Due 06-30-2019 @ 6:00 PM
  */
 package edu.metrostate.ics340.p3.msr812;
 
@@ -17,7 +15,7 @@ import java.util.NavigableSet;
 import java.util.Scanner;
 import java.util.TreeSet;
 
-import edu.metrostate.ics340.p3.Router;
+import package.Router;
 
 /*
  * This DroneRouter class implements the Router interface. This class is 
