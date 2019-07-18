@@ -1,5 +1,3 @@
-package edu.metrostate.ics340.p3;
-
 /**
  * @author Ralph A Foy
  *
